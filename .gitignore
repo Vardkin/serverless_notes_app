@@ -1,5 +1,6 @@
 notes.txt
 credentials.csv
 notes-app-client/src/config.js
+notes-app-api/package-lock.json
 notes-app-api/server-info.md
 node_modules/
